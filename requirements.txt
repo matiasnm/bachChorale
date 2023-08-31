@@ -3,4 +3,4 @@ matplotlib==3.5.2
 music21==7.3.3
 gunicorn==21.2.0
 whitenoise==6.5.0
-asgiref==3.7.12
+asgiref==3.6.0
