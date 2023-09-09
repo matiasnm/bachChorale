@@ -1,6 +1,6 @@
 # Bach Chorales
 ### _a web app using music21 Python Library_ 
-![Preview](https://github.com/matiasnm/bachChorale/blob/main/readme.png)
+![Preview](https://github.com/matiasnm/bachChorale/blob/main/README.png)
 
 ## Features
 
